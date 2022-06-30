@@ -1,6 +1,4 @@
-# serve-a-compound-model-lp-author
-
-Repository for liveProject: Serve a Compound Model
+Repository for Serving a NLP Model using Ray Serve
 
 ## Setup Guide
 
