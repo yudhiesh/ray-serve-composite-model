@@ -1,0 +1,15 @@
+ray[default]==1.10.0
+ray[serve]==1.10.0
+aiohttp==3.7.4
+numpy==1.19.2
+pydantic>=1.8
+starlette
+fastapi
+scikit-learn==1.0.2
+pandas
+cloudpickle
+fsspec
+python-multipart
+transformers==4.10
+nltk
+tensorflow==2.5
